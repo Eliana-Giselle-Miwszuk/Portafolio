@@ -178,7 +178,7 @@
             color: #555;
         }
 
-        /* Sección de Habilidades */
+   
         .xseccion-skills {
             margin: 2rem 0;
         }
@@ -288,7 +288,7 @@
             font-size: 16px;
             min-width: 200px;
         }
-        /* Botón de enviar */
+
         .xformulario-contacto button {
             background-color: #16a085;
             color: white;
